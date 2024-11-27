@@ -184,5 +184,10 @@ let sites = [
         name: "fLaMEdFury",
         url: "https://flamedfury.com",
         because: "My personal homepage, full of stuff that means everything to me, and nothing to you. fLaMEdFury draws inspiration from a web that existed 20 years ago!"
+    },
+    {
+        name: "Nikola Stoyanov",
+        url: "https://newdegeneration.xyz",
+        because: "Art on the edge of the ontic."
     }
 ]
